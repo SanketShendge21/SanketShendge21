@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SanketShendge21
+- 👋 Hi, I’m Sanket Shendge
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning BE Computer
+- 🌱 I’m currently pursuing BE Computer
 - 💞️ I’m looking to collaborate on business days
 - 📫 How to reach me : sanketshendge88@gmail.com
 - 🚀 Personal Website - https://sanketshendge.infinityfreeapp.com/
