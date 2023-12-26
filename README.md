@@ -34,7 +34,7 @@
 
 - ✍  Reach me on **<a href="https://www.linkedin.com/in/sanket-shendge/" target="_blank" >LinkedIn</a>**
 - ✅  Reach me on **<a href="https://www.instagram.com/sanket.shendge21/" target="_blank" >Instagram</a>**
-- - ✅  Reach me on **<a href="https://twitter.com/SanketShendge21" target="_blank" >Twitter</a>**
+- ✅  Reach me on **<a href="https://twitter.com/SanketShendge21" target="_blank" >Twitter</a>**
 
 <br/>
 <br/>
