@@ -1,11 +1,13 @@
  <p align="center">
-  Hii, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <a href="https://www.linkedin.com/in/shubham-bhoite98"> I'm Shubham Bhoite</a>
+  Hii, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <a href="https://www.linkedin.com/in/sanket-shendge/"> I'm Sanket Shendge</a>
 </p> 
-<h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
+<h2 align="center">Aspiring Full-Stack Web Developer from INDIA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 - I am a full stack web developer. 
-- I am skilled in C, Java, Python.
-- I am also skilled in HTML, CSS, Javascript. I am good in data structure and algorithms.
+- I am skilled in C, C++, Java, Python.I am good in data structures and algorithms.
+- I am skilled in HTML, CSS, Javascript, PHP.
+- I am skilled in SQL and NoSQL databases.
+- I am skilled in frameworks like React, NextJS,Tailwind CSS, Bootstrap 
 - I learned a lot from the open-source community.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -16,8 +18,8 @@
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=shubham-bhoite&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
- <img src="https://img.shields.io/github/followers/shubham-bhoite?label=Followers&style=social" alt="followers-count"> 
+ <img src="https://komarev.com/ghpvc/?username=sanketshendge21&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
+ <img src="https://img.shields.io/github/followers/sanketshendge21?label=Followers&style=social" alt="followers-count"> 
 </p>
 
 
@@ -27,11 +29,12 @@
 **🎓About Me**:
 
 - 👉 I'm currently learning **MERN Stack** and **DSA**
-- 3⭐on HackerRank in python
-- 4⭐on HackerRank in C
+- 4⭐on HackerRank in SQL
+- 4⭐on HackerRank in C++
 
-- ✍  Reach me on **<a href="https://www.linkedin.com/in/shubham-bhoite98/" target="_blank" >LinkedIn</a>**
-- ✅  Reach me on **<a href="https://www.instagram.com/official_shubhya_96k/" target="_blank" >Instagram</a>**
+- ✍  Reach me on **<a href="https://www.linkedin.com/in/sanket-shendge/" target="_blank" >LinkedIn</a>**
+- ✅  Reach me on **<a href="https://www.instagram.com/sanket.shendge21/" target="_blank" >Instagram</a>**
+- - ✅  Reach me on **<a href="https://twitter.com/SanketShendge21" target="_blank" >Twitter</a>**
 
 <br/>
 <br/>
@@ -44,8 +47,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -56,16 +59,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -82,30 +85,6 @@
 </div>
 
 
-## 📊 Statistics  
-<div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubham-bhoite&theme=2077" width="46%" />
-  <br/>
-  <br/>
-    <br/>
-  <br/>
-<img align="right" src="https://streak-stats.demolab.com/?user=shubham-bhoite&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
-</div>
-<br/>
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham-bhoite&theme=2077" width="45%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham-bhoite&theme=2077" width="45%" />
-</div>
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubham-bhoite&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
-                                                                                                                             
-  
-  <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=shubham-bhoite&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
 
 
 
