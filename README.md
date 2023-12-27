@@ -70,6 +70,7 @@
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -85,7 +86,13 @@
 </div>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanketshendge21&show_icons=true&theme=radical" alt="sanketshendge" /></p>
+<p> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"alt="sanketshendge" /></p>
+<p> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketshendge21&&theme=radical" alt="sanketshendge" /></p>
 
+<p align="left"> <a href="https://twitter.com/sanketshendge21" target="blank"><img src="https://img.shields.io/twitter/follow/sanketshendge21?logo=twitter&style=for-the-badge" alt="sanket_shendge" /></a> </p>
 
 
 ### Dev Quote
