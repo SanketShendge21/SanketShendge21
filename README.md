@@ -88,7 +88,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sanketshendge21&show_icons=true&theme=radical" alt="sanketshendge" /></p>
 <p> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"alt="sanketshendge" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketshendge21&layout=compact"alt="sanketshendge" /></p>
 <p> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanketshendge21&&theme=radical" alt="sanketshendge" /></p>
 
